@@ -65,7 +65,7 @@
                 | Evaluar la notoriedad de una marca.
               li.mb-3.d-flex
                 i.fas.fa-chevron-circle-right.bg-color-18
-                | Controlar el SEO (#[em Search Engine Optimization]) para que el sitio empresarial se posicione de manera eficiente en los motores de búsqueda.
+                span Controlar el SEO (#[em Search Engine Optimization]) para que el sitio empresarial se posicione de manera eficiente en los motores de búsqueda.
 
     .bg-color-21.p-4.tarjeta.mb-5
       p.mb-0 A través del proceso de analítica digital y de las herramientas de medición que ofrece hoy la web, se abren una serie de puertas para potenciar y mejorar si es necesario la concepción, diseño, lanzamiento de cualquier negocio online. Las empresas tienen sus particularidades por su naturaleza, lo que hace que cada una defina, según sus necesidades las KPIS (#[em Key Performance Indicator]) de analítica digital que se adecue con mayor claridad a su estrategia.

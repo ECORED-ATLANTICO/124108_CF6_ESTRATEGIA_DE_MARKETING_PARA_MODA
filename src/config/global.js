@@ -158,9 +158,9 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Canales de Comunicación',
+      termino: 'Canales de comunicación',
       significado:
-        'Soporte por el cual se emite el mensaje entre el emisor y el receptor en el proceso de comunicación, puede ser la radio, tv, prensa, internet, email, etc.',
+        'Soporte por el cual se emite el mensaje entre el emisor y el receptor en el proceso de comunicación, puede ser la radio, tv, prensa, internet, <em>email</em>, etc.',
     },
     {
       termino: 'Clientes',
@@ -170,7 +170,7 @@ export default {
     {
       termino: 'Fidelización',
       significado:
-        'Dentro del marketing, se define como el hecho de la lealtad que tiene un cliente con una marca.',
+        'Dentro del <em>marketing</em>, se define como el hecho de la lealtad que tiene un cliente con una marca.',
     },
     {
       termino: 'Google Analytics',
@@ -188,7 +188,7 @@ export default {
         'Estructuras formadas en Internet por personas u organizaciones que se conectan a partir de intereses o valores comunes.',
     },
     {
-      termino: 'Social media',
+      termino: '<em>Social media</em>',
       significado:
         'Plataformas de comunicación en línea donde el contenido es creado por los propios usuarios mediante el uso de la Web 2.0, que facilitan la edición, publicación e intercambio de información.',
     },
@@ -207,12 +207,12 @@ export default {
       referencia:
         'Agencia Nacional de Evaluación de la Calidad y Acreditación – ANECA. (s. f.). <em>Plan de mejoras: herramienta de trabajo.</em>',
       link:
-        'http://www.uantof.cl/public/docs/universidad/direccion_docente/15_elaboracion_plan_de_mejoras.pdf',
+        'https://www.academia.edu/44544026/PLAN_DE_MEJORAS_Herramienta_de_trabajo_Agencia_Nacional_de_Evaluaci%C3%B3n_de_la_Calidad_y_Acreditaci%C3%B3n',
     },
     {
       referencia:
         'AITECO Consultores S. L. (2019). <em>AITECO Consultores: Planes de Mejora.</em>',
-      link: 'https://www.aiteco.es/calidad/plan-de-mejora/',
+      link: 'https://www.aiteco.com/calidad/plan-de-mejora/',
     },
     {
       referencia:
@@ -269,7 +269,7 @@ export default {
     {
       referencia:
         'Proaño, D.; Gisbert, V. y Pérez, E. (2017). <em>3C Empresa: investigación y pensamiento crítico.</em> {E. Especial, Ed.}. DOI:',
-      link: 'http://dx.doi.org/10.17993/3cemp.2017.especial.50-56/',
+      link: 'https://share.google/wJ3gNAvxPX6MZlIQp',
     },
     {
       referencia:
@@ -283,14 +283,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -298,9 +299,28 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor metodológico y pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Maria Camila Álvarez',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Liliana Ceballos',
+          cargo: 'Contratista diseño Curricular',
+          centro:
+            'Centro de Formación en Diseño, Confección y Moda Regional - Antioquia',
+        },
+        {
+          nombre: 'Cristian Metaute Medina',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -308,19 +328,60 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jesus Antonio Vecino Valero',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Carlos Andrés Diaz Pinto',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios Regional - Tolima',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Víctor Cardenas',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Camilo Villamizar',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Jose Tang',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Maria Camila Ovalle',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
       ],
     },
@@ -328,14 +389,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

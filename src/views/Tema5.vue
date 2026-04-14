@@ -7,6 +7,7 @@
         span 5
       h1 Elaboración e informe descriptivo del producto
 
+
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
         .bloque-texto-g.color-secundario.bg-color-1.p-3.p-sm-4.p-md-5.mb-5
@@ -15,23 +16,44 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 Los gráficos permiten representar datos de forma visual para facilitar su comprensión y análisis. A través de ellos es posible identificar comparaciones, tendencias y relaciones entre la información. A continuación, se presenta un video que explica de manera detallada cómo elaborar e interpretar gráficos correctamente.
-        
-        figure.mb-5
-          .video.mb-2
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Video: Leyenda del video
+    figure.mb-5
+      .video.mb-2
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mHn4cjPKOUk" title="Elaboración e interpretación de gráficos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: elaboración e interpretación de gráficos
 
-        separador
-        
-        #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.1 Características de los gráficos
+    p El #[em reporting] (reporte) de redes sociales y analítica digital son estrategias eficaces para mejorar la comunicación adecuada entre las campañas de marketing y la dirección de la empresa. De los datos analíticos depende el #[em social media] para que sus iniciativas sean eficaces y exitosas, redundando así en beneficio para las empresas. Cuando hablamos de visualización de datos nos referimos al proceso de convertir cantidades grandísimas de información en conocimiento; y para esto se utilizan diversos gráficos estadísticos, que serían aquellas herramientas visuales que ayudan a plasmar datos estadísticos complejos de forma ordenada y sencilla para ser interpretados, analizados y entendidos.
+    p Un dato estadístico se puede definir como el valor cuantitativo de un objeto de conocimiento en un tiempo y un espacio, y puedes ser de dos tipos: cuantitativos hace referencia a cantidades y valores, y cualitativos son cualidades del producto que no pueden expresarse a partir de números. Entonces un gráfico resultado de una estrategia de analítica digital lo que haces es ordenar los datos estadísticos con diversas estructuras, líneas, barras, burbujas, etc. con el propósito de generar facilidad en el entendimiento sobre la data.
+
+    separador
+    
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 5.1 Características de los gráficos
         
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.mb-3.mb-lg-0
+      .col-sm-8.col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema5/2.png", data-aos="zoom-in")
-      .col-lg-9
-        p.mb-0(data-aos="fade-right") Existe un amplio abanico de gráficos diferentes que se pueden implementar en los informes de analíticas digital. Se presentarán los más usados desde su tipo, explicación y cuándo se usan. Le sugerimos percibir los beneficios de estos gráficos para que pueda tomar decisiones en el momento de utilizarlos.
+      .col-lg-8
+        .row.align-items-center
+          .col-12
+            p Un buen gráfico debe generar las siguientes particularidades:
+            ul.lista-ul--color.ms-3
+              li.d-flex
+                i.fas.fa-chevron-circle-right.bg-color-18
+                | Presentar la información de manera agradable, sencilla, clara y precisa.
+              li.d-flex
+                i.fas.fa-chevron-circle-right.bg-color-18
+                | Generar interés y captar la atención del lector.
+              li.d-flex
+                i.fas.fa-chevron-circle-right.bg-color-18
+                | Acompaña e ilustra el tema, mensaje o trama del texto en él se apoya.
+              li.d-flex
+                i.fas.fa-chevron-circle-right.bg-color-18
+                | Facilita la comparación de datos, destacando tendencias y diferencias.
+              li.d-flex
+                i.fas.fa-chevron-circle-right.bg-color-18
+                | No puede inducir al error.
+        p.bg-color-22.p-4.rounded-3.mb-0(data-aos="fade-right") Existe un amplio abanico de gráficos diferentes que se pueden implementar en los informes de analíticas digital. Se presentarán los más usados desde su tipo, explicación y cuándo se usan. Le sugerimos percibir los beneficios de estos gráficos para que pueda tomar decisiones en el momento de utilizarlos.
 
     .bg-fondo-3.tarjeta
       .p-4.p-lg-4
@@ -50,7 +72,7 @@
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 ¿Cuándo se usa?
-                p.ms-3 Este gráfico se implementa para representar variables cuantitativas o cualitativas ordinales
+                p.ms-3 Este gráfico se implementa para representar variables cuantitativas o cualitativas ordinales.
           .row.justify-content-center.align-items-center.p-3
             .col-lg-3.mb-3.mb-lg-0.order-2
               figure
@@ -131,7 +153,7 @@
               figure
                 img(src='@/assets/curso/tema5/9.png', alt='Imagen de acompañamiento')
             .col-lg-9.mb-4.mb-md-0.order-1
-              h4 Gráfico radial o de teleraña
+              h4 Gráfico radial o de telaraña
               ul.lista-ul--color
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
@@ -220,14 +242,14 @@
             AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-7")
               div(titulo="Retroespectiva")
                 p.ms-5 Análisis descriptivo. Es la interpretación más común del análisis de estadística de redes y páginas web, basadas en acontecimientos del presente y del pasado. Hace referencia a la compilación de información estadística sobre elementos históricos definidos claramente, que se almacenan y se realiza agregaciones del histórico para la comprensión del estado actual o pasado del negocio; como ejemplo podríamos poner clientes, productos, proveedores.
-              div(titulo="Insights")
+              div(titulo="<em>Insights</em>")
                 p.ms-5 Análisis de diagnóstico. Gira en torno al “porqué”, es decir da elementos de éxito o fallidos de una campaña, generalmente se combina con la información que entrega el análisis descriptivo.
               div(titulo="Previsión")
-                p.ms-5 Análisis predictivo. Basada en el uso de técnicas de machine learning, datos y algoritmos estadísticos que ayudan a contrarrestar información, para visionar la probabilidad de resultados futuros basado en ese material histórico, definiendo si la estrategia va por buen camino y proveer la mejor evaluación de lo que sucederá en el futuro.
+                p.ms-5 Análisis predictivo. Basada en el uso de técnicas de <em>machine learning</em>, datos y algoritmos estadísticos que ayudan a contrarrestar información, para visionar la probabilidad de resultados futuros basado en ese material histórico, definiendo si la estrategia va por buen camino y proveer la mejor evaluación de lo que sucederá en el futuro.
               div(titulo="Prospectiva")
                 p.ms-5 Análisis prescriptivo. Va más allá del análisis predictivo pues entrega elementos sobre acciones futuras, pero te da claridad sobre cómo abordar ese escenario para optimizar los resultados.
               div(titulo="Analítica selectiva")
-                p.ms-5 Reporting que posibilita seleccionar material a través de un filtro con criterios específicos, generalmente se usa para revisión de casos, para grupos de investigación en un área específica o informes de cumplimiento obligatorio.
+                p.ms-5 #[em Reporting] que posibilita seleccionar material a través de un filtro con criterios específicos, generalmente se usa para revisión de casos, para grupos de investigación en un área específica o informes de cumplimiento obligatorio.
               div(titulo="Analística y exportación de registros")
                 p.ms-5 Traslada información de su fuente original para generar reportes específicos, generalmente se usa cuando se van a analizar clientes, datos demográficos de usuarios o interacciones con el servicio antes y postventa.
               div(titulo="Analíticas periódicas")
@@ -242,7 +264,7 @@
       .col-lg-3.mb-3.mb-lg-0
         .bg-color-5.p-4.tarjeta 
           img(src="@/assets/curso/tema5/16.png",style="max-width: 116px" data-aos="zoom-in").mb-3
-          p.mb-0 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas marketing digital. Veremos a continuación algunas métricas comunes en el marketing.
+          p.mb-0 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas #[em marketing] digital. Veremos a continuación algunas métricas comunes en el #[em marketing].
       .col-md-8.col-lg-4.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/15.png", data-aos="zoom-in")
@@ -250,16 +272,16 @@
         ul.lista-ul--color.ms-3
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            p.mb-0 <b>Métricas de Área o Generales.</b> Basadas en la correspondencia del esfuerzo organizativo y la inversión en la búsqueda y adquisición de clientes.
+            p.mb-0 <b>Métricas de área o generales.</b> Basadas en la correspondencia del esfuerzo organizativo y la inversión en la búsqueda y adquisición de clientes.
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            p.mb-0 <b>Métricas de Producto.</b> Mide la popularidad y características de un producto con respecto a la competencia.
+            p.mb-0 <b>Métricas de producto.</b> Mide la popularidad y características de un producto con respecto a la competencia.
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            p.mb-0 <b>Métrica de Campaña.</b> Mide la adquisición de leads y ventas efectivas basadas en el comportamiento de público.
+            p.mb-0 <b>Métrica de campaña.</b> Mide la adquisición de leads y ventas efectivas basadas en el comportamiento de público.
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            p.mb-0 <b>Métricas Digitales.</b> Valida seguidores, número de visitas, nivel de interacciones y de conversión.
+            p.mb-0 <b>Métricas digitales.</b> Valida seguidores, número de visitas, nivel de interacciones y de conversión.
         .bg-color-22.p-4.tarjeta.mb-3
           p.mb-0 Analizar e interpretar los gráficos estadísticos de las redes sociales y las páginas web, permite no solo recopilar sino comprender los datos arrojados, para alcanzar una visión del actual mercado, conocer y comprender el consumidor objetivo, analizar audiencias, y recopilar todo tipo de comentarios para usarlos como insumo de mejoras.
 

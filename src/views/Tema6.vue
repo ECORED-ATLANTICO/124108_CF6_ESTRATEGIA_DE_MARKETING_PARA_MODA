@@ -103,15 +103,15 @@
               h5 Actuar
               p.mb-0 Se toman decisiones de acuerdo a lo encontrado generando acciones correctivas y repensando la unidad en el marco de los cambios de contexto.
 
+    h4 Fases de ejecución
+    p.mb-5 Esta fase inicia con la identificación de las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégicos y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, Amenazas) diagramas de causa- efecto, el árbol de problemas.
+
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema6/10.png", data-aos="zoom-in")
       .col-lg-8
         TabsA.color-acento-botones
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Fases de ejecución")
-            h4 Fases de ejecución
-            p.mb-0 Esta fase inicia con la identificación de las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégicos y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, Amenazas) diagramas de causa- efecto, el árbol de problemas.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Fase análisis")
             h4 Fase análisis
             p.mb-0 Esta fase inicia con la identificación de las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégicos y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, Amenazas) diagramas de causa- efecto, el árbol de problemas.
