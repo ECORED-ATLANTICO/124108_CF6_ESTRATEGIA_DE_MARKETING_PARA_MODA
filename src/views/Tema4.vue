@@ -11,7 +11,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text En el e-commerce los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda online convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (Search Engine Optimization); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
+        p.banner-text En el e-commerce los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda #[em online] convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (#[em Search Engine Optimization]); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-3.mb-lg-0
@@ -56,7 +56,7 @@
                   figure
                     img(src='@/assets/curso/tema4/8.svg', alt='Imagen de acompañamiento')
                 .col-lg-8.mb-4.mb-md-0
-                  p.mb-0 Logra que la descripción le hable al cliente de la tienda online, es decir que la descripción no se limite simplemente a describir, sino que genere contacto personalizado, que parezca ser para un usuario puntual.
+                  p.mb-0 Logra que la descripción le hable al cliente de la tienda #[em online], es decir que la descripción no se limite simplemente a describir, sino que genere contacto personalizado, que parezca ser para un usuario puntual.
               .row.justify-content-center.align-items-center.p-3
                 .col-lg-4.mb-3.mb-lg-0
                   figure
@@ -74,17 +74,20 @@
                   figure
                     img(src='@/assets/curso/tema4/11.svg', alt='Imagen de acompañamiento')
                 .col-lg-8.mb-4.mb-md-0
-                  p.mb-0 Optimizar las descripciones a nivel SEO (Search Engine Optimization) para potenciar buscadores, creando textos sensibles, únicos y originales que aporten más valor y no robotizar la descripción.
+                  p.mb-0 Optimizar las descripciones a nivel SEO (#[em Search Engine Optimization]) para potenciar buscadores, creando textos sensibles, únicos y originales que aporten más valor y no robotizar la descripción.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.mb-3.mb-lg-0
+      .col-lg-5.col-xl-3.mb-3.mb-lg-0
         .bg-color-5.p-4.tarjeta 
           img(src="@/assets/curso/tema4/13.png",style="max-width: 116px" data-aos="zoom-in").mb-3
-          p.mb-0 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas marketing digital. Veremos a continuación algunas métricas comunes en el marketing.
-      .col-md-8.col-lg-4.mb-3.mb-xl-0
+          p A continuación, veremos estos elementos en una ficha descriptiva de un producto de una tienda #[em online] que inició vendiendo ropa vintage y hoy día tiene una diversidad de ropa femenina, incluso inició una marca propia. La página es la marca registrada Nasty. Está catalogada como toda una filosofía y un ejemplo de #[em branding]. Revise el sitio web haciendo clic en el siguiente enlace: 
+          a.boton.color-secundario(href="https://www.nastygal.com/" target="_blank")
+            span Visitar sitio web
+            i.fas.fa-link
+      .col-md-8.col-lg-4.mb-3.mb-xl-0.d-none.d-xl-block
         figure
           img(src="@/assets/curso/tema4/12.png", data-aos="zoom-in")
-      .col-lg-5
+      .col-lg-6.col-xl-5
         .bg-color-22.p-4.tarjeta.mb-3
           p.mb-0 Una vez revisada la página web ¿qué puedes concluir?, para ayudar con la respuesta podemos afirmar que:
         ul.lista-ul--color.ms-3

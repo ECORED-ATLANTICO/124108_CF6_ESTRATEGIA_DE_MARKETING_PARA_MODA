@@ -13,7 +13,8 @@
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
       .col-lg-8
-        p Apreciado aprendiz, bienvenido a este momento de aprendizaje diseñado a partir de un contenido temático, recursos educativos digitales y actividades de aprendizaje que pretenden ayudar en el reconocimiento del plan estratégico de mercadeo de la organización, de acuerdo con los objetivos de la marca. En este sentido, se ha creado un video que presenta el contexto del presente componente de formación y que se encuentra a continuación.
+        p Con el surgimiento de las Tecnologías de la Información y la Comunicación poco a poco se fue creando información sobre el consumo de los clientes en el mercado, permitiendo entender a través de sus datos sus necesidades y deseos de compra, ante esta dinámica las empresas han optado por la valoración de la analítica como una herramienta para la toma de decisiones en relación con los bienes o servicios que deben producir según las tendencias de consumo de su segmento de cliente.
+        p.mb-0 Por lo anterior, este proceso formativo está orientado a partir de los siguientes temas:
 
     .bg-full-width.bg-fondo-1
       .px-4.px-lg-5
@@ -85,7 +86,7 @@
                 img.d-none.d-lg-block(src='@/assets/curso/intro/10.svg' alt='')
               .col-md
                 h5 ¿Qué elementos tengo para aprender?
-                p.mb-0 Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: infografía, videos, textos de los autores del componentes y otros.
+                p.mb-0 Usted tiene a su disposición un conjunto de recursos de aprendizaje para desarrollar conocimientos, habilidades y actitudes. Entre ellos: infografía, videos, textos de los autores de los componentes y otros.
           .tarjeta.bg-color-23.p-3(x="63%" y="77%" numero="3")
             .row.justify-content-center
               .col-md-auto
@@ -107,7 +108,7 @@
               .col-md-auto
                 img.d-none.d-lg-block(src='@/assets/curso/intro/12.svg' alt='')
               .col-md
-                h5 ¿Cúal es el propósito de este momento de aprendizaje?
+                h5 ¿Cuál es el propósito de este momento de aprendizaje?
                 p.mb-0 El propósito de este momento está relacionado con medir los resultados obtenidos para el ajuste de la estrategia digital, de acuerdo a la analítica de datos.
     
         .cajon.color-acento-contenido.p-4.mb-4

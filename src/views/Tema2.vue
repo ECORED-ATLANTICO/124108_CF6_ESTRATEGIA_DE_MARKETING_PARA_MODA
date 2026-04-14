@@ -68,7 +68,7 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img.d-none.d-lg-flex(src="@/assets/curso/tema2/9.png").mx-auto
               .col-lg
-                p.mb-0 Aporta procedimientos para continuar con la comunicación a partir de leccioness aprendidas para reducir la probabilidad de la situación.
+                p.mb-0 Aporta procedimientos para continuar con la comunicación a partir de lecciones aprendidas para reducir la probabilidad de la situación.
     
  
       .col-lg-5

@@ -45,9 +45,9 @@
         figure
           img(src="@/assets/curso/tema1/6.png", data-aos="zoom-in")
       .col-lg-8
-        p Un protocolo de atención y servicio al cliente es un documento, que se hace en forma de manual, en el que se explican cómo deben ser las actuaciones de los empleados en relación a la atención o a las ventas. En él se detallan los procedimientos de interacción con los consumidores e incluye planes de contingencia para que los empleados sepan reaccionar en diferentes situaciones. Además, fomentan el aprendizaje y son una base fundamental para las capacitaciones de tu equipo. (párr.5)
+        p Según Da Silva (2020): un protocolo de atención y servicio al cliente es un documento, que se hace en forma de manual, en el que se explican cómo deben ser las actuaciones de los empleados en relación a la atención o a las ventas. En él se detallan los procedimientos de interacción con los consumidores e incluye planes de contingencia para que los empleados sepan reaccionar en diferentes situaciones. Además, fomentan el aprendizaje y son una base fundamental para las capacitaciones de tu equipo. (párr.5)
         .bg-color-21.tarjeta.px-5.py-4
-          p.mb-0 Teniendo la definición anterior se podría plantear que un protocolo es ese instrumento donde se plasma para la organización, los lineamientos técnicos sobre el modo de actuar deseado con relacion a la atención al cliente, buscando unidad de criterios conceptos e ideas, para lograr intervenciones efectivas con el cliente y elementos para evaluar y mejorar la calidad de la atención.
+          p.mb-0 Teniendo la definición anterior se podría plantear que un protocolo es ese instrumento donde se plasma para la organización, los lineamientos técnicos sobre el modo de actuar deseado con relación a la atención al cliente, buscando unidad de criterios conceptos e ideas, para lograr intervenciones efectivas con el cliente y elementos para evaluar y mejorar la calidad de la atención.
 
     separador
     
@@ -72,8 +72,8 @@
             p.ms-5 Una parte fundamental en la experiencia del cliente es la percepción, conocimiento y apropiación de los representantes de atención al cliente, de esos lineamientos definidos en relación con la calidad. La implementación frecuente de este tipo de atención genera coherencia, consistencia y perfección en el manejo de atención al cliente.
           div(titulo="Evitar pérdidas financieras")
             p.ms-5 Una mala atención al cliente es un riesgo alto para la organización, por eso tener un protocolo invita a la buena calidad en el servicio y atención al cliente con directrices claras.
-          div(titulo="Sirve como guía en las acciones de mejora.")
-            p.ms-5 Al tener un protocolo de atención y servicio se podrá monitorear fácilmente los resultados y definir capacitaciones permanentes para la apropiación de los integrantes de la organización generando e implementando todas las acciones de mejora pertinentes al proceso
+          div(titulo="Sirve como guía en las acciones de mejora")
+            p.ms-5 Al tener un protocolo de atención y servicio se podrá monitorear fácilmente los resultados y definir capacitaciones permanentes para la apropiación de los integrantes de la organización generando e implementando todas las acciones de mejora pertinentes al proceso.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-up")
@@ -82,7 +82,7 @@
             .col-lg-auto.mb-3.mb-lg-0
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/9.png").mx-auto
             .col-lg
-              p.mb-0 Con la información que has visto, se entiende la importancia de los protocolos de atención en la interacción con los clientes. Recuerda que la confianza es un valor fundamental dentro del protocolo.
+              p.mb-0 Con la información presentada, se entiende la importancia de los protocolos de atención en la interacción con los clientes. Recuerde que la confianza es un valor fundamental dentro del protocolo. 
     
     separador
     
