@@ -11,7 +11,7 @@
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10(data-aos="fade-up")
-        p.banner-text En el e-commerce los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda #[em online] convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (#[em Search Engine Optimization]); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
+        p.banner-text En el #[em e-commerce] los productos son los órganos vitales, por eso las descripciones de ellos son parte fundamental en la determinación del comprador al momento de comprar. Son un enganche para que el usuario de una tienda #[em online] convierta o no un llamado a la acción, es decir lo que se lee del producto influye en la compra. Escribir para vender no es fácil, pues en ellas se debe conjugar información, persuasión y optimización para SEO (#[em Search Engine Optimization]); por eso, para potenciar las posibilidades de la reseña de producto es importante tener en cuenta algunos elementos. Estos son:
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-5.mb-3.mb-lg-0

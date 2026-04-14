@@ -75,7 +75,7 @@
           .tarjeta.tarjeta--azul
             .p-3
               h5 Planificar
-              p.mb-0 Se identifica el problema y se definen objetivos y acciones para lograrlos
+              p.mb-0 Se identifica el problema y se definen objetivos y acciones para lograrlos.
       .col-lg-5.mb-3.mb-lg-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down")
           .tarjeta-avatar-b__img
@@ -104,7 +104,7 @@
               p.mb-0 Se toman decisiones de acuerdo a lo encontrado generando acciones correctivas y repensando la unidad en el marco de los cambios de contexto.
 
     h4 Fases de ejecución
-    p.mb-5 Esta fase inicia con la identificación de las posibles causas de la problemática, del área y proceso a ser mejorado, teniendo en cuenta los siguientes elementos como: análisis del impacto que tiene el proceso en el área para lograr objetivos estratégicos de la empresa, importancia de la visión, misión y objetivos estratégicos y prever los efectos negativos de la situación problémica, para esto existen herramientas y técnicas de análisis como la matriz DOFA (Debilidades, Oportunidades, Fortalezas, Amenazas) diagramas de causa- efecto, el árbol de problemas.
+    p.mb-5 Para definir las fases de ejecución de un plan de mejora nos basaremos en Proaño, D. et al. (2017), que definen cuatro fases a seguir para ejecutar un plan de mejora. Las fases expuestas por estos autores son: 1. Análisis, 2. Planeación, 3. Implementación y Seguimiento, 4. Evaluación. Le sugerimos leerlas e identificar las acciones que debe realizar, esto le permitirá saber cómo hacerlo cuando le toque hacerlo en su contexto laboral.
 
     .row.mb-5.justify-content-center.align-items-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0

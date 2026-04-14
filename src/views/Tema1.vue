@@ -13,7 +13,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Hoy es un hito, la difusión masiva a través de las redes por las posibilidades que dan de alcance, características e impacto, por eso son utilizadas a nivel individual y empresarial; lo anterior ha generado una revolución importante en el proceso comercial, de comunicación, interacción y atención con clientes, por la presencia online, de inmediatez y de cercanía.
+            p.banner-text Hoy es un hito, la difusión masiva a través de las redes por las posibilidades que dan de alcance, características e impacto, por eso son utilizadas a nivel individual y empresarial; lo anterior ha generado una revolución importante en el proceso comercial, de comunicación, interacción y atención con clientes, por la presencia #[em online], de inmediatez y de cercanía.
         
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-3.order-2
@@ -38,7 +38,7 @@
             .col-lg-auto.mb-3.mb-lg-0.order-2
               img.d-none.d-lg-flex(src="@/assets/curso/tema1/5.png").mx-auto
             .col-lg.order-1
-              p.mb-0 En este escenario aparecen los protocolos de servicios como herramientas que posibilita estandarizar la atención al cliente, mejorando los procesos desde la definición de unos parámetros con los lineamientos técnicos, que permiten evaluar y mejorar la calidad de atención, generando así un signo distintivo que sobrepasan las expectativas del cliente logrando su fidelidad, que después se traduce en utilidades, competitividad y productividad para la empresa, pero ¿Qué es un protocolo de atención y servicio al cliente?
+              p.mb-0 En este escenario aparecen los protocolos de servicios como herramientas que posibilita estandarizar la atención al cliente, mejorando los procesos desde la definición de unos parámetros con los lineamientos técnicos, que permiten evaluar y mejorar la calidad de atención, generando así un signo distintivo que sobrepasan las expectativas del cliente logrando su fidelidad, que después se traduce en utilidades, competitividad y productividad para la empresa, pero ¿qué es un protocolo de atención y servicio al cliente?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3
