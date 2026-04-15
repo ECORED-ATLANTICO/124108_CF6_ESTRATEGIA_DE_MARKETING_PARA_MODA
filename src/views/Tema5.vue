@@ -18,7 +18,7 @@
             p.mb-0 Los gráficos permiten representar datos de forma visual para facilitar su comprensión y análisis. A través de ellos es posible identificar comparaciones, tendencias y relaciones entre la información. A continuación, se presenta un video que explica de manera detallada cómo elaborar e interpretar gráficos correctamente.
     figure.mb-5
       .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/mHn4cjPKOUk" title="Elaboración e interpretación de gráficos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="1470" height="827" src="https://www.youtube.com/embed/g7rYJ2fsnbY" title="Elaboración e interpretación de gráficos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)    
       figcaption Video: elaboración e interpretación de gráficos
 
     p El #[em reporting] (reporte) de redes sociales y analítica digital son estrategias eficaces para mejorar la comunicación adecuada entre las campañas de marketing y la dirección de la empresa. De los datos analíticos depende el #[em social media] para que sus iniciativas sean eficaces y exitosas, redundando así en beneficio para las empresas. Cuando hablamos de visualización de datos nos referimos al proceso de convertir cantidades grandísimas de información en conocimiento; y para esto se utilizan diversos gráficos estadísticos, que serían aquellas herramientas visuales que ayudan a plasmar datos estadísticos complejos de forma ordenada y sencilla para ser interpretados, analizados y entendidos.
