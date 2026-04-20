@@ -134,7 +134,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA6.pdf',
+        download: 'downloads/CFA6_124108_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -148,14 +148,14 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
+  // complementario: [
+  //   {
+  //     tema: '',
+  //     referencia: '',
+  //     tipo: '',
+  //     link: '',
+  //   },
+  // ],
   glosario: [
     {
       termino: 'Canales de comunicación',
