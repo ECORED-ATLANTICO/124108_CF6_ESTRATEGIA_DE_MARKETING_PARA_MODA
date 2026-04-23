@@ -21,9 +21,6 @@
         iframe(width="1470" height="827" src="https://www.youtube.com/embed/g7rYJ2fsnbY" title="Elaboración e interpretación de gráficos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)    
       figcaption Video: elaboración e interpretación de gráficos
 
-    p El #[em reporting] (reporte) de redes sociales y analítica digital son estrategias eficaces para mejorar la comunicación adecuada entre las campañas de marketing y la dirección de la empresa. De los datos analíticos depende el #[em social media] para que sus iniciativas sean eficaces y exitosas, redundando así en beneficio para las empresas. Cuando hablamos de visualización de datos nos referimos al proceso de convertir cantidades grandísimas de información en conocimiento; y para esto se utilizan diversos gráficos estadísticos, que serían aquellas herramientas visuales que ayudan a plasmar datos estadísticos complejos de forma ordenada y sencilla para ser interpretados, analizados y entendidos.
-    p Un dato estadístico se puede definir como el valor cuantitativo de un objeto de conocimiento en un tiempo y un espacio, y puedes ser de dos tipos: cuantitativos hace referencia a cantidades y valores, y cualitativos son cualidades del producto que no pueden expresarse a partir de números. Entonces un gráfico resultado de una estrategia de analítica digital lo que haces es ordenar los datos estadísticos con diversas estructuras, líneas, barras, burbujas, etc. con el propósito de generar facilidad en el entendimiento sobre la data.
-
     separador
     
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -128,11 +125,11 @@
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 Explicación
-                p.ms-3 Gráfico con gran utilización por su facilidad y sencillez, también conocido como Tora por su representación circular que simboliza la totalidad y se expresa en porcentajes.
+                p.ms-3 Gráfico conformado por las variables definidas en el eje X y las frecuencias en el eje Y se marcan los puntos, para luego unirlos y formar una línea poligonal constante o irregular llamada gráfica poligonal.
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 ¿Cuándo se usa?
-                p.ms-3 Cuando se analizan pocas variables y se requiera recalcar proporciones de un total.
+                p.ms-3 Se implementa para mostrar y comparar una variable en el tiempo o evidenciar los cambios de una variable en un periodo determinado.
           .row.justify-content-center.align-items-center.p-3
             .col-lg-3.mb-3.mb-lg-0.order-2
               figure
@@ -278,7 +275,7 @@
             p.mb-0 <b>Métricas de producto.</b> Mide la popularidad y características de un producto con respecto a la competencia.
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            p.mb-0 <b>Métrica de campaña.</b> Mide la adquisición de leads y ventas efectivas basadas en el comportamiento de público.
+            p.mb-0 <b>Métrica de campaña.</b> Mide la adquisición de #[em leads] y ventas efectivas basadas en el comportamiento de público.
           li.mb-1.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
             p.mb-0 <b>Métricas digitales.</b> Valida seguidores, número de visitas, nivel de interacciones y de conversión.
