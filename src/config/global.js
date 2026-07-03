@@ -134,7 +134,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA6_124108_DU.pdf',
+        download: 'downloads/124108_CF06_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -173,9 +173,9 @@ export default {
         'Dentro del <em>marketing</em>, se define como el hecho de la lealtad que tiene un cliente con una marca.',
     },
     {
-      termino: 'Google Analytics',
+      termino: 'Google Analytics 4 (GA4)',
       significado:
-        'Herramienta usada para analizar datos en un sitio web y conocer mejor a los clientes.',
+        'herramienta de medición de sitios web y aplicaciones que permite analizar eventos, audiencias, conversiones y comportamiento de los usuarios. ',
     },
     {
       termino: 'Protocolo',
@@ -205,56 +205,73 @@ export default {
   referencias: [
     {
       referencia:
-        'Agencia Nacional de Evaluación de la Calidad y Acreditación - ANECA. (s. f.). <em>Plan de mejoras: herramienta de trabajo.</em>',
-      link:
-        'https://www.academia.edu/44544026/PLAN_DE_MEJORAS_Herramienta_de_trabajo_Agencia_Nacional_de_Evaluaci%C3%B3n_de_la_Calidad_y_Acreditaci%C3%B3n',
+        'Agencia Nacional de Evaluación de la Calidad y Acreditación. (2021). <em>Guía para la elaboración de un plan de mejoras.</em> ANECA.',
+      link: 'https://www.aneca.es/',
     },
     {
-      referencia:
-        'AITECO Consultores S. L. (2019). <em>AITECO Consultores: Planes de Mejora.</em>',
+      referencia: 'AITECO Consultores. (2019). <em>Planes de mejora.</em>',
       link: 'https://www.aiteco.com/calidad/plan-de-mejora/',
     },
     {
       referencia:
-        'AQU Catalunya (2005). <em>La calidad, garantía de mejora. Marco general para el establecimiento, el seguimiento y la revisión de los planes de mejora.</em>',
+        'Agència per a la Qualitat del Sistema Universitari de Catalunya. (2005). <em>La calidad, garantía de mejora: Marco general para el establecimiento, el seguimiento y la revisión de los planes de mejora.</em>',
       link: 'https://www.aqu.cat/doc/doc_40159984_1.pdf',
     },
     {
       referencia:
-        'Castillo, A. y Ponce, D. (2015). <em>Comunicación de Crisis 2.0.</em> Madrid, España: Editorial Fragua.',
+        'Castillo Esparcia, A., & Ponce, D. (2015). <em>Comunicación de crisis 2.0.</em> Editorial Fragua. ISBN: 978-84-7074-666-6',
     },
     {
       referencia:
-        'Da Silva, D. (2020). <em>Protocolo de atención y servicio al cliente: ¿qué es, por qué es importante para tu empresa, ¿cómo hacerlo y cuáles son sus ventajas? Web Content & SEO Associate, LATAM.</em>',
+        'Congreso de Colombia. (2012, 17 de octubre). <em>Ley 1581 de 2012. Por la cual se dictan disposiciones generales para la protección de datos personales.</em> Diario Oficial.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=1684507',
+    },
+    {
+      referencia:
+        'Congreso de Colombia. (2023, 10 de julio). <em>Ley 2300 de 2023. Por medio de la cual se establecen medidas que protejan el derecho a la intimidad de los consumidores.</em> Diario Oficial.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30046853',
+    },
+    {
+      referencia:
+        'Da Silva, D. (2020). <em>Protocolo de atención y servicio al cliente: Qué es, por qué es importante para tu empresa, cómo hacerlo y cuáles son sus ventajas.</em> Zendesk.',
       link:
-        'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/#:%7E:text=%E2%80%9CUn%20protocolo%20de%20atenci%C3%B3n%20es,qu%C3%A9%20es%20una%20buena%20atenci%C3%B3n%E2%80%9D.',
+        'https://www.zendesk.es/blog/customer-service/protocolo-de-atencion-al-cliente/',
     },
     {
       referencia:
-        'Druker, P. (1990). <em>El ejecutivo eficaz.</em> Buenos Aires: Editorial Sudamericana.',
+        'Drucker, P. F. (1990). <em>El ejecutivo eficaz.</em> Editorial Sudamericana.',
     },
     {
       referencia:
-        'Emprendedores. (2020). <em>Emprendedores: Pautas para elaborar un informe eficaz, comprensible y bien presentado.</em>',
+        'Emprendedores. (2020). <em>Pautas para elaborar un informe eficaz, comprensible y bien presentado.</em>',
       link:
-        'https://www.emprendedores.es/gestion/como-elaborar-un-documento-eficaz-comprensible-y-bien-presentado/',
+        'https://emprendedores.es/gestion/como-elaborar-un-documento-eficaz-comprensible-y-bien-presentado/',
     },
     {
       referencia:
-        'Enrique, A. (2017). <em>La comunicación empresarial en situación de crisis.</em> {Tesis de doctorado no publicada}. Universidad Autónoma de Barcelona.',
-      link: 'https://ddd.uab.cat/pub/tesis/2007/tdx-0523108-150642/aej1de1.pdf',
+        'Enrique Jiménez, A. M. (2007). <em>La comunicación empresarial en situaciones de crisis: Estudio de caso: La crisis de Fontaneda</em> (Tesis doctoral, Universitat Autònoma de Barcelona). Dipòsit Digital de Documents de la UAB.',
+      link: 'https://hdl.handle.net/10803/4142',
     },
     {
       referencia:
-        'Maldonado, S. (s. f.). <em>Analítica Web. Medir para triunfar.</em>',
+        'Escuela de Negocios y Dirección. (7 de mayo de 2026). <em>Analítica Web: qué es y mejores herramientas.</em> ENyD Blog.',
       link:
-        'https://books.google.es/books?hl=es&lr=&id=8oqgwKf7z2kC&oi=fnd&pg=PA15&dq=Anal%C3%ADtica+Web+2.0&ots=NIerrM0UgY&sig=dUtx-OU3guF-0F7NERHq-Vhun7Q#v=onepage&q=Anal%C3%ADtica%20Web%202.0&f=false',
+        'https://www.escueladenegociosydireccion.com/blog/marketing/herramientas-analitica-web-marketing-digital/',
     },
     {
       referencia:
-        'Morales, M. (2010). <em>Analítica Web para empresas: Arte, ingenio y anticipación.</em>',
-      link:
-        'https://books.google.com.mx/books?id=j7QtAwAAQBAJ&printsec=frontcover#v=onepage&q&f=false',
+        'Maldonado, S. (2010). <em>Analítica web: Medir para triunfar.</em> ESIC Editorial.',
+      link: 'https://books.google.com/books?id=27h3ClYpEM0C',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2015, 26 de mayo). <em>Decreto 1074 de 2015. Por medio del cual se expide el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.</em> Diario Oficial.',
+      link: 'https://www.suin-juriscol.gov.co/viewDocument.asp?id=30019935',
+    },
+    {
+      referencia:
+        'Morales Martínez, M. (2011). <em>Analítica web para empresas: Arte, ingenio y anticipación.</em> Editorial UOC.',
+      link: 'https://books.google.com/books?id=v9BhAQAACAAJ',
     },
     {
       referencia:
@@ -263,19 +280,19 @@ export default {
     },
     {
       referencia:
-        'Pérez, P. y García, F. (2010). <em>La comunicación de crisis como elemento clave de la comunicación empresarial.</em> Revista ICONO, 14, 2010, Año 8, Vol. 2, pp. 42-56. ISSN 1697-8293. Madrid (España).',
-      link: '',
+        'Proaño Villavicencio, D. X., Gisbert Soler, V., & Pérez Bernabeu, E. (2017). <em>Metodología para elaborar un plan de mejora continua.</em> 3C Empresa: Investigación y pensamiento crítico, edición especial, 50–56.',
+      link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=6300064',
     },
     {
       referencia:
-        'Proaño, D.; Gisbert, V. y Pérez, E. (2017). <em>3C Empresa: investigación y pensamiento crítico.</em> {E. Especial, Ed.}. DOI:',
-      link: 'https://share.google/wJ3gNAvxPX6MZlIQp',
+        'Saura Pérez, P., & García García, F. (2010). <em>La comunicación de crisis como elemento clave de la comunicación empresarial.</em> Icono14, 8(2), 42–56.',
+      link: 'https://icono14.net/ojs/index.php/icono14/article/view/245',
     },
     {
       referencia:
-        'Tomas. D (2018). <em>Analítica web y 5 herramientas para medir tus resultados online.</em> Ciberclik {Blog}.',
+        'Tomás, D. (2018). <em>Analítica web y 5 herramientas para medir tus resultados online.</em> Cyberclick.',
       link:
-        'https://www.cyberclick.es/numerical-blog/analitica-web-y-5-herramientas-para-medir-tus-resultados-online#:~:text=La%20anal%C3%ADtica%20web%20consiste%20en,con%20%C3%A9l%20de%20diversas%20maneras',
+        'https://www.cyberclick.es/numerical-blog/analitica-web-y-5-herramientas-para-medir-tus-resultados-online',
     },
   ],
   creditos: [

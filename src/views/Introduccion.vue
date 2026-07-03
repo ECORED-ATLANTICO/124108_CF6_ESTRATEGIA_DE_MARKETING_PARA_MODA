@@ -13,7 +13,7 @@
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
       .col-lg-8
-        p Con el surgimiento de las Tecnologías de la Información y la Comunicación poco a poco se fue creando información sobre el consumo de los clientes en el mercado, permitiendo entender a través de sus datos sus necesidades y deseos de compra, ante esta dinámica las empresas han optado por la valoración de la analítica como una herramienta para la toma de decisiones en relación con los bienes o servicios que deben producir según las tendencias de consumo de su segmento de cliente.
+        p Con el surgimiento de las Tecnologías de la Información y la Comunicación poco a poco se fue creando información sobre el consumo de los clientes en el mercado, permitiendo entender a través de sus datos sus necesidades y deseos de compra, ante esta dinámica, las empresas han optado por la valoración de la analítica como una herramienta para la toma de decisiones en relación con los bienes o servicios que deben producir según las tendencias de consumo de su segmento de cliente.
         p.mb-0 Por lo anterior, este proceso formativo está orientado a partir de los siguientes temas:
 
     .bg-full-width.bg-fondo-1
@@ -67,7 +67,7 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-11
             .bg-color-26.p-4
-              h5.mb-0 Lo invitamos a revisar el siguiente recurso de aprendizaje para que usted comprenda algunas condiciones iniciales de aprendizaje. Bienvenido.
+              h5.mb-0 Lo invitamos a revisar el siguiente recurso de aprendizaje para que usted comprenda algunas condiciones iniciales de aprendizaje. Bienvenidos.
         
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
@@ -79,7 +79,8 @@
                 img.d-none.d-lg-block(src='@/assets/curso/intro/9.svg' alt='')
               .col-md
                 h5 ¿Cómo iniciar este proceso aprendizaje?
-                p.mb-0 La difusión de información a través de la internet ha generado oportunidades de modelos de negocios, esto debido a la analítica que procesa los datos y la información de los clientes para entender necesidades de los clientes, ante esta realidad surge el presente momento de aprendizaje ¿qué esperas para ser un creador de valor para las empresas?
+                p.mb-0 La difusión de información a través de internet ha generado oportunidades para el desarrollo de nuevos modelos de negocio. Esto se debe, en gran medida, a la analítica que permite procesar datos e información de los clientes para comprender mejor sus necesidades y expectativas. Ante esta realidad surge el presente momento de aprendizaje. ¿Qué esperas para convertirte en un creador de valor para las empresas? 
+                p.mb-0 Es importante tener en cuenta que la recolección, análisis, almacenamiento y uso de datos de clientes debe realizarse de conformidad con la Ley 1581 de 2012, el Decreto 1074 de 2015 y las políticas de tratamiento de datos personales de cada organización. Asimismo, cuando la información se utilice para contactos comerciales, campañas o seguimiento de usuarios, deberán observarse las disposiciones establecidas en la Ley 2300 de 2023 sobre la protección de la intimidad de los consumidores. 
           .tarjeta.bg-color-23.p-3(x="37%" y="77%" numero="2")
             .row.justify-content-center
               .col-md-auto
@@ -95,13 +96,13 @@
                 h5 ¿Cómo finalizar este componente de formación?
                 ul.lista-ul--color.ms-3
                   li.mb-3.d-flex
-                    i.fas.fa-circle.fa-xs.mt-2.bg-color-27
+                    i.fas.fa-circle.fa-2xs.mt-2.bg-color-27
                     | Mantener una disciplina de estudio de acuerdo a los tiempos que tienes para este componente de formación.
                   li.mb-3.d-flex
-                    i.fas.fa-circle.fa-xs.mt-2.bg-color-27
+                    i.fas.fa-circle.fa-2xs.mt-2.bg-color-27
                     | Participar de los espacios de interacción del programa. Uno de ellos son los foros.
                   li.mb-3.d-flex
-                    i.fas.fa-circle.fa-xs.mt-2.bg-color-27
+                    i.fas.fa-circle.fa-2xs.mt-2.bg-color-27
                     | Si tienes dudas con respecto a su proceso no dudes en escribirle un correo a su instructor.
           .tarjeta.bg-color-23.p-3(x="88%" y="77%" numero="4")
             .row.justify-content-center

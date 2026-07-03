@@ -90,7 +90,7 @@
               .col-lg
                 p.mb-0 Momento en el que se produce la crisis y existe una implicación mediática.
         div.position-relative
-          h5.bg-color-31.text-white.py-2.px-3.d-inline.position-absolute.pst-pestana Fase post traumática
+          h5.bg-color-31.text-white.py-2.px-3.d-inline.position-absolute.pst-pestana Fase postraumática
           .bg-color-9.mb-5.p-4.tarjeta.h-100.d-flex
             .row.align-items-center
               .col-lg-auto.mb-3.mb-lg-0
@@ -124,7 +124,7 @@
           div(titulo="Apoyo a la gestión y decisión")
             p.ms-5 Está directamente relacionada con las comunicaciones internas y externas que permita dar claridad sobre el acontecimiento, difusión a los medios de comunicación y mensaje a los clientes internos y externos.
           div(titulo="Respeto a la legislación y contratos")
-            p.ms-5 Enmarcarse en los protocolos legislativos y contractuales vigentes relacionados con la crisis.
+            p.ms-5 Enmarcarse en los protocolos legislativos, contractuales e institucionales vigentes relacionados con la crisis. El protocolo de gestión de crisis en redes sociales debe contemplar el cumplimiento de las obligaciones contractuales, la protección de datos personales, los derechos de los consumidores, la propiedad intelectual y los lineamientos internos de vocería de la organización. En Colombia, cuando la gestión de la crisis involucre datos personales o comunicaciones comerciales, deberán observarse, como mínimo, las disposiciones de la Ley 1581 de 2012, el Decreto 1074 de 2015 y la Ley 2300 de 2023.
     
     
 

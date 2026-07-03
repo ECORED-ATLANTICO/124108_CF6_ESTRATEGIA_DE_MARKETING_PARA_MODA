@@ -75,15 +75,16 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.svg")
         h3.titulo-con-imagen__texto Herramientas para medir la analítica de sitios web
 
+    p Las herramientas de analítica web ayudan a gestionar datos cualitativos y cuantitativos de la interacción de visitantes de la web o redes sociales, para entender e interpretar los datos, posibilitando optimizar y mejorar resultados. Gracias a estas herramientas se puede organizar dicha información, conocer métricas más importantes, validar estrategias y resultados, en base a los análisis se puede comprender mejor a los clientes, definir acciones y estrategias para mejorar el sitio y validar la experiencia de usuario y aumentar las conversiones.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3
         figure
           img(src="@/assets/curso/tema3/5.png", data-aos="zoom-in")
       .col-lg-8
-        p Las herramientas de analítica web ayudan a gestionar datos cualitativos y cuantitativos de la interacción de visitantes de la web o redes sociales, para entender e interpretar los datos, posibilitando optimizar y mejorar resultados. Gracias a estas herramientas se puede organizar dicha información, conocer métricas más importantes, validar estrategias y resultados, en base a los análisis se puede comprender mejor a los clientes, definir acciones y estrategias para mejorar el sitio y validar la experiencia de usuario y aumentar las conversiones.
-        .bg-color-25.tarjeta.px-5.py-4
-          p Según el Observatorio Digital (2020) “Existen múltiples herramientas de analítica digital para web y para redes”, para más información lo invitamos a revisar su página web en el siguiente link:
-          a.boton.color-secundario.texto-blanco(href="https://observatorio.digital/blog/analitica-digital-2/#anal" target="_blank")
+        p Antes de recolectar o analizar datos de visitantes, usuarios o clientes, es necesario verificar la autorización o base legal para el tratamiento de los datos personales, la finalidad informada al titular, la existencia de una política de privacidad, los tiempos de conservación de la información y las medidas de seguridad aplicables, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. 
+        .bg-color-25.tarjeta.p-4
+          p Según la Escuela de Negocios y Dirección (2026), existen múltiples herramientas de analítica digital para medir variables clave de tráfico, comportamiento y conversiones tanto en entornos web como en redes sociales. Para más información, lo invitamos a revisar su página web en el siguiente enlace:
+          a.boton.color-secundario.texto-blanco(href="https://www.escueladenegociosydireccion.com/blog/marketing/herramientas-analitica-web-marketing-digital/ " target="_blank")
             span Analítica digital
             i.fas.fa-link
             
@@ -106,14 +107,16 @@
             .row.justify-content-center.mb-3
               .col-5
                 img(src='@/assets/curso/tema3/8.png' alt='')
-            h4.text-center.bg-color-9.p-2 Social mention
-            p.text-center Permite medir comentarios generados en redes, número de usuarios y datos de contenidos. Tiene capacidad para medir en tiempo real hasta 80 sitios diferentes, pero no permite almacenar información para analizarla en periodos largos de tiempo.
+            h4.text-center.bg-color-9.p-2 Social Mention y otras herramientas de escucha social 
+            p.text-center Social Mention fue una herramienta utilizada para medir comentarios generados en redes sociales, número de usuarios y datos relacionados con contenidos publicados. Entre sus características se destacaba la posibilidad de monitorear información en tiempo real proveniente de múltiples sitios web; sin embargo, presentaba limitaciones para el almacenamiento y análisis histórico de la información. 
+            p.text-center Actualmente, las organizaciones cuentan con diversas herramientas de escucha social y analítica digital que permiten monitorear conversaciones, medir el rendimiento de contenidos, analizar audiencias y generar reportes para la toma de decisiones. Entre las más utilizadas se encuentran Metricool, Meta Business Suite, Google Analytics 4, Brandwatch, Talkwalker, Meltwater y Brand24. La selección de la herramienta dependerá de las necesidades de la organización, el presupuesto disponible, el alcance del análisis y las políticas aplicables al tratamiento de datos. 
           .tarjeta.bg-color-white.box-shadow.p-4
             .row.justify-content-center.mb-3
               .col-5
                 img(src='@/assets/curso/tema3/9.png' alt='')
             h4.text-center.bg-color-9.p-2 Metricool
-            p.text-center Permite monitorear algunas redes como Facebook, Instagram, Twitter y Linkedin mediante gráficos evolutivos de un mes, se puede validar número de #[em tweets] por día, repercusiones, me gustas, publicaciones que funcionan, nuevos seguidores, y seguidores que se retiran.
+            p.text-center Permite monitorear redes sociales como Facebook, Instagram, X (antes Twitter) y LinkedIn mediante gráficos evolutivos y paneles de análisis. A través de esta herramienta es posible consultar métricas relacionadas con el rendimiento de las publicaciones, el alcance, las interacciones, el crecimiento de la comunidad, los nuevos seguidores y la evolución de la audiencia en diferentes periodos de tiempo. 
+            p.text-center Las métricas y funcionalidades disponibles pueden variar según las actualizaciones de la plataforma, las condiciones de acceso a las interfaces de programación (API) de las redes sociales y el plan contratado por el usuario. 
           .tarjeta.bg-color-white.box-shadow.p-4
             .row.justify-content-center.mb-3
               .col-5

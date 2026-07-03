@@ -18,10 +18,10 @@
             .bloque-texto-b.color-secundario.p-4(data-aos="fade-up").mb-3
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                p.mb-0 Un plan de mejora se define como la propuesta de actuaciones, resultante de un proceso previo de diagnóstico de una unidad, que recoge y formaliza los objetivos de mejora y las correspondientes actuaciones dirigidas a fortalecer los puntos fuertes y resolver los débiles, de manera priorizada y temporalizada. (pág.11). 
+                p.mb-0 Un plan de mejora se define como la propuesta de actuaciones, resultante de un proceso previo de diagnóstico de una unidad, que recoge y formaliza los objetivos de mejora y las correspondientes actuaciones dirigidas a fortalecer los puntos fuertes y resolver los débiles, de manera priorizada y temporalizada. 
                 i.fas.fa-quote-right
               .bloque-texto-d__autor 
-                .h5.mb-0 AQU Catalunya (2005).
+                .h5.mb-0 (<em>Agència per a la Qualitat del Sistema Universitari de Catalunya</em> [AQU Catalunya], 2005, p. 11).
 
         .bg-color-5.mb-5.p-4.tarjeta
           .row.align-items-center
