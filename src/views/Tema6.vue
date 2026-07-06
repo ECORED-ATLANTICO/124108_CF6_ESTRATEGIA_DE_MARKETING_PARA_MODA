@@ -65,7 +65,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-Verificar-Actuar) la cual está constituida por cuatro fases. Ellas son:
+            p.banner-text Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz, reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-VerificarActuar), la cual está constituida por cuatro fases. Ellas son:
 
     .row.mb-3.align-items-center.justify-content-center
       .col-lg-5.mb-3.mb-lg-0
@@ -101,7 +101,7 @@
           .tarjeta.tarjeta--azul
             .p-3
               h5 Actuar
-              p.mb-0 Se toman decisiones de acuerdo a lo encontrado generando acciones correctivas y repensando la unidad en el marco de los cambios de contexto.
+              p.mb-0 Se toman decisiones de acuerdo a lo encontrado, generando acciones correctivas y repensando la unidad en el marco de los cambios de contexto.
 
     h4 Fases de ejecución
     p.mb-5 Para definir las fases de ejecución de un plan de mejora nos basaremos en Proaño, D. et al. (2017), que definen cuatro fases a seguir para ejecutar un plan de mejora. Las fases expuestas por estos autores son: 1. Análisis, 2. Planeación, 3. Implementación y Seguimiento, 4. Evaluación. Le sugerimos leerlas e identificar las acciones que debe realizar, esto le permitirá saber cómo hacerlo cuando le toque hacerlo en su contexto laboral.
@@ -120,11 +120,11 @@
             p.mb-0 Esta planificación debe ser definida en varios momentos o plazos, ser medible, viable, flexible, y se debe tener en cuenta lo siguiente: validar los resultados del análisis y definir los objetivos, definir las posibles soluciones y establecer las acciones, asignar las responsabilidades a los miembros del equipo y definir las herramientas para la solución de problemáticas.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Fase de implementación y seguimiento")
             h4 Fase de implementación y seguimiento
-            p.mb-0 En esta fase es vital la incorporación del personal pues son los encargados de ejecutar las acciones y se debe tener en cuenta lo siguiente: la socialización del plan de mejora, la ejecución de las acciones programadas, los seguimientos basados en indicadores de impacto y de desempeño, y valoración del cumplimiento del plan.
+            p.mb-0 En esta fase es vital la incorporación del personal, pues son los encargados de ejecutar las acciones y se debe tener en cuenta lo siguiente: la socialización del plan de mejora, la ejecución de las acciones programadas, los seguimientos basados en indicadores de impacto y de desempeño, y valoración del cumplimiento del plan.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Fase de evaluación")
             h4 Fase de evaluación
-            p Consiste en la verificación del plan de mejora definido, se define a partir de objetivos e indicadores y finalmente se realiza el informe.
-            p.mb-0 Apreciado aprendiz, gracias por llegar al final de esta experiencia de aprendizaje. Es importante que usted más allá de identificar o comprender conceptos vistos debe buscar las formas de cómo llevarlos a cabo en su contexto. Allí es donde tiene utilidad su formación.
+            p Consiste en la verificación del plan de mejora definido, se define a partir de objetivos e indicadores y finalmente, se realiza el informe.
+            p.mb-0 Apreciado aprendiz, gracias por llegar al final de esta experiencia de aprendizaje. Es importante que usted, más allá de identificar o comprender conceptos vistos, debe buscar las formas de cómo llevarlos a cabo en su contexto. Allí es donde tiene utilidad su formación.
 
 
 

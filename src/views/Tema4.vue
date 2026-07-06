@@ -38,13 +38,13 @@
                   figure
                     img(src='@/assets/curso/tema4/5.svg', alt='Imagen de acompañamiento')
                 .col-lg-8.mb-4.mb-md-0
-                  p.mb-0 Destaca con negrita los puntos clave visualizando lo más importante, generalmente los usuarios leen parcialmente el contenido por lo tanto esta estrategia facilitará el camino del comprador.
+                  p.mb-0 Destaca con negrita los puntos clave, visualizando lo más importante, generalmente los usuarios leen parcialmente el contenido, por lo tanto, esta estrategia facilitará el camino del comprador.
               .row.justify-content-center.align-items-center.p-3
                 .col-lg-4.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/tema4/6.svg', alt='Imagen de acompañamiento')
                 .col-lg-8.mb-4.mb-md-0
-                  p.mb-0 Usa un lenguaje emocional, muchos usuarios o consumidores basan sus compras en sus respuestas emocionales, a veces este elemento es más fuerte que la intención de comprar, por eso las emociones son importante en la optimización de la conversión.
+                  p.mb-0 Usa un lenguaje emocional, muchos usuarios o consumidores basan sus compras en sus respuestas emocionales, a veces este elemento es más fuerte que la intención de comprar, por eso las emociones son importantes en la optimización de la conversión.
               .row.justify-content-center.align-items-center.p-3
                 .col-lg-4.mb-3.mb-lg-0
                   figure
@@ -89,7 +89,7 @@
           img(src="@/assets/curso/tema4/12.png", data-aos="zoom-in")
       .col-lg-6.col-xl-5
         .bg-color-22.p-4.tarjeta.mb-3
-          p.mb-0 Una vez revisada la página web ¿qué puedes concluir?, para ayudar con la respuesta podemos afirmar que:
+          p.mb-0 Una vez revisada la página web ¿qué puede concluir?, para ayudar con la respuesta podemos afirmar que:
         ul.lista-ul--color.ms-3
           li.mb-3.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
@@ -99,7 +99,7 @@
             | Las imágenes del producto posibilitan desde varios ángulos mayor claridad ante los ojos del cliente.
           li.mb-3.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
-            | Las fotos definidas milimétricamente resaltan la silueta y las características diferencial de las prendas, lo que llevaría a un deseo del cliente.
+            | Las fotos definidas milimétricamente resaltan la silueta y las características diferenciales de las prendas, lo que llevaría a un deseo del cliente.
           li.mb-3.d-flex
             i.fa-solid.fa-greater-than.bg-color-4
             | La narrativa sintética tiene un poder evocador capaz de evocar el beneficio de la prenda.

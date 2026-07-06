@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Elaboración e informe descriptivo del producto
+      h1 Elaboración e interpretación de gráficos
 
 
     .bg-full-width.bg-fondo-1
@@ -50,7 +50,7 @@
               li.d-flex
                 i.fas.fa-chevron-circle-right.bg-color-18
                 | No puede inducir al error.
-        p.bg-color-22.p-4.rounded-3.mb-0(data-aos="fade-right") Existe un amplio abanico de gráficos diferentes que se pueden implementar en los informes de analíticas digital. Se presentarán los más usados desde su tipo, explicación y cuándo se usan. Le sugerimos percibir los beneficios de estos gráficos para que pueda tomar decisiones en el momento de utilizarlos.
+        p.bg-color-22.p-4.rounded-3.mb-0(data-aos="fade-right") Existe un amplio abanico de gráficos diferentes que se pueden implementar en los informes de analíticas digitales. Se presentarán los más usados desde su tipo, explicación y cuándo se usan. Le sugerimos percibir los beneficios de estos gráficos para que pueda tomar decisiones en el momento de utilizarlos.
 
     .bg-fondo-3.tarjeta
       .p-4.p-lg-4
@@ -65,7 +65,7 @@
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 Explicación
-                p.ms-3 Gráfico que sirve para organizar los datos en columnas dando cuenta de las frecuencias que un dato se repite.
+                p.ms-3 Gráfico que sirve para organizar los datos en columnas dando cuenta de las frecuencias con que un dato se repite.
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 ¿Cuándo se usa?
@@ -185,7 +185,7 @@
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 Explicación
-                p.ms-3 Este tipo de gráfico es implementado para indicar las zonas o áreas geográficas de mayor o menor frecuencia de una variable o valor un determinado. Estas frecuencias o rangos de se indican mediante el uso del color.
+                p.ms-3 Este tipo de gráfico es implementado para indicar las zonas o áreas geográficas de mayor o menor frecuencia de una variable o un valor determinado. Estas frecuencias o rangos se indican mediante el uso del color.
                 li.d-flex
                   i.fa-solid.fa-greater-than.bg-color-4
                   h5 ¿Cuándo se usa?
@@ -238,7 +238,7 @@
           .col-md-8.col-lg-10.mb-3.mb-lg-0
             AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-7")
               div(titulo="Retroespectiva")
-                p.ms-5 Análisis descriptivo. Es la interpretación más común del análisis de estadística de redes y páginas web, basadas en acontecimientos del presente y del pasado. Hace referencia a la compilación de información estadística sobre elementos históricos definidos claramente, que se almacenan y se realiza agregaciones del histórico para la comprensión del estado actual o pasado del negocio; como ejemplo podríamos poner clientes, productos, proveedores.
+                p.ms-5 Análisis descriptivo. Es la interpretación más común del análisis de estadística de redes y páginas web, basadas en acontecimientos del presente y del pasado. Hace referencia a la compilación de información estadística sobre elementos históricos definidos claramente, que se almacenan y se realizan agregaciones del histórico para la comprensión del estado actual o pasado del negocio; como ejemplo podríamos poner clientes, productos, proveedores.
               div(titulo="<em>Insights</em>")
                 p.ms-5 Análisis de diagnóstico. Gira en torno al “porqué”, es decir da elementos de éxito o fallidos de una campaña, generalmente se combina con la información que entrega el análisis descriptivo.
               div(titulo="Previsión")
@@ -261,7 +261,7 @@
       .col-lg-3.mb-3.mb-lg-0
         .bg-color-5.p-4.tarjeta 
           img(src="@/assets/curso/tema5/16.png",style="max-width: 116px" data-aos="zoom-in").mb-3
-          p.mb-0 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas #[em marketing] digital. Veremos a continuación algunas métricas comunes en el #[em marketing].
+          p.mb-0 Un informe estadístico producto de un ejercicio de analítica, entrega datos que ayudan al proceso de análisis del rendimiento de la página y de las redes sociales a través de métricas, que son datos que sirven para analizar el rendimiento de las campañas de #[em marketing] digital. Veremos a continuación algunas métricas comunes en el #[em marketing].
       .col-md-8.col-lg-4.mb-3.mb-xl-0
         figure
           img(src="@/assets/curso/tema5/15.png", data-aos="zoom-in")

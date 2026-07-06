@@ -96,70 +96,88 @@
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
             p.banner-text Actualmente las redes sociales han ganado importancia para las empresas y usuarios, hay una tendencia creciente de las empresas de moda a desarrollar negocio #[em online], lo que posiciona la analítica en redes sociales como estrategias necesarias para medir el grado de interacción de los usuarios. A continuación, revisa el siguiente recurso de aprendizaje para que usted pueda clasificar y valorar cuáles le serán útiles en su campo de acción. Adelante.
-    
-    .row.mb-5.justify-content-center.align-items-center
-      .col-lg-4.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema3/7.png", data-aos="zoom-in")
-      .col-lg-8
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/8.png' alt='')
-            h4.text-center.bg-color-9.p-2 Social Mention y otras herramientas de escucha social 
-            p.text-center Social Mention fue una herramienta utilizada para medir comentarios generados en redes sociales, número de usuarios y datos relacionados con contenidos publicados. Entre sus características se destacaba la posibilidad de monitorear información en tiempo real proveniente de múltiples sitios web; sin embargo, presentaba limitaciones para el almacenamiento y análisis histórico de la información. 
-            p.text-center Actualmente, las organizaciones cuentan con diversas herramientas de escucha social y analítica digital que permiten monitorear conversaciones, medir el rendimiento de contenidos, analizar audiencias y generar reportes para la toma de decisiones. Entre las más utilizadas se encuentran Metricool, Meta Business Suite, Google Analytics 4, Brandwatch, Talkwalker, Meltwater y Brand24. La selección de la herramienta dependerá de las necesidades de la organización, el presupuesto disponible, el alcance del análisis y las políticas aplicables al tratamiento de datos. 
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/9.png' alt='')
-            h4.text-center.bg-color-9.p-2 Metricool
-            p.text-center Permite monitorear redes sociales como Facebook, Instagram, X (antes Twitter) y LinkedIn mediante gráficos evolutivos y paneles de análisis. A través de esta herramienta es posible consultar métricas relacionadas con el rendimiento de las publicaciones, el alcance, las interacciones, el crecimiento de la comunidad, los nuevos seguidores y la evolución de la audiencia en diferentes periodos de tiempo. 
-            p.text-center Las métricas y funcionalidades disponibles pueden variar según las actualizaciones de la plataforma, las condiciones de acceso a las interfaces de programación (API) de las redes sociales y el plan contratado por el usuario. 
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/10.png' alt='')
-            h4.text-center.bg-color-9.p-2 SumAll
-            p.text-center Esta herramienta puede medir el impacto de la actividad en redes, fijar objetivos y monitorearlos. Posibilita compara la información de 29 sitios, a través de gráficos que dan cuenta de tamaño de la red, actividad, horarios de actividad y permite exportar y explorar los datos externamente.
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/11.png' alt='')
-            h4.text-center.bg-color-9.p-2 Audiense
-            p.text-center Es una herramienta fácil que permite conocer nuevos seguidores, horas de mayor actividad y programar envíos directos, respuestas a #[em tweets] y monitorear #[em hashtags].
 
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/12.png' alt='')
-            h4.text-center.bg-color-9.p-2 Twitter Analytics
-            p.text-center Es la herramienta de que Twitter puso a disposición de sus usuarios de manera gratuita que les permite elegir horarios, contenidos y conocer mejor su comunidad, basadas en métricas como número de seguidores y de publicaciones, contenidos destacados, las visitas al perfil, menciones.
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/13.png' alt='')
-            h4.text-center.bg-color-9.p-2 Twitonomy
-            p.text-center Herramienta que posibilita realizar un completo análisis de las menciones, los me gustas, seguidores y seguidos y las repercusión y difusión de los tuits que se publican, posibilita exportar los datos a un Excel.
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/14.png' alt='')
-            h4.text-center.bg-color-9.p-2 TweetStats
-            p.text-center Es una de las herramientas de mayor tiempo, permite obtener datos de cuentas ajenas de Twitter a través de un gráfico, con información de usuarios, seguidores, número de publicaciones, horarios, interacciones, esto posibilita conocer la analítica digital de la competencia para diseñar estrategias en redes que favorezca a nuestra empresa.
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/15.png' alt='')
-            h4.text-center.bg-color-9.p-2 Iconosquare
-            p.text-center Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios visor de #[em feed], #[em hashtags] más usados, horas, impacto alcance y sugerencias.
-          .tarjeta.bg-color-white.box-shadow.p-4
-            .row.justify-content-center.mb-3
-              .col-5
-                img(src='@/assets/curso/tema3/16.png' alt='')
-            h4.text-center.bg-color-9.p-2 Audience Insights
-            p.text-center Es la herramienta de Facebook para analizar usuarios desde la lectura de datos demográficos sexo, edad, ubicación, cargos formación académica, situaciones sentimentales, interés, estilos de vida, estos variables ayudan a la empresa para crear contenidos que capten la atención de los usuarios.
+    .bg-fondo-slider.tarjeta.mb-5
+      .p-4.p-lg-5
+        SlyderA(tipo="b").bg-color-white.p-4.tarjeta
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/8.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Social Mention y otras herramientas de escucha social
+              p Social Mention fue una herramienta utilizada para medir comentarios generados en redes sociales, número de usuarios y datos relacionados con contenidos publicados. Entre sus características se destacaba la posibilidad de monitorear información en tiempo real proveniente de múltiples sitios web; sin embargo, presentaba limitaciones para el almacenamiento y análisis histórico de la información. 
+ 
+              p.mb-0 Actualmente, las organizaciones cuentan con diversas herramientas de escucha social y analítica digital que permiten monitorear conversaciones, medir el rendimiento de contenidos, analizar audiencias y generar reportes para la toma de decisiones. Entre las más utilizadas se encuentran Metricool, Meta Business Suite, Google Analytics 4, Brandwatch, Talkwalker, Meltwater y Brand24. La selección de la herramienta dependerá de las necesidades de la organización, el presupuesto disponible, el alcance del análisis y las políticas aplicables al tratamiento de datos. 
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/9.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Metricool 
+              p Permite monitorear redes sociales como Facebook, Instagram, X (antes Twitter) y LinkedIn mediante gráficos evolutivos y paneles de análisis. A través de esta herramienta es posible consultar métricas relacionadas con el rendimiento de las publicaciones, el alcance, las interacciones, el crecimiento de la comunidad, los nuevos seguidores y la evolución de la audiencia en diferentes periodos de tiempo. 
+
+              p.mb-0 Las métricas y funcionalidades disponibles pueden variar según las actualizaciones de la plataforma, las condiciones de acceso a las interfaces de programación (API) de las redes sociales y el plan contratado por el usuario. 
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/10.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Looker Studio
+              p Looker Studio es una herramienta de visualización y análisis de datos que permite integrar información proveniente de diferentes fuentes, como Google Analytics 4, Google Ads, hojas de cálculo y otras plataformas digitales. Facilita la creación de paneles interactivos, gráficos y reportes personalizados para monitorear indicadores de desempeño, evaluar resultados y apoyar la toma de decisiones. 
+
+              p.mb-0 Entre sus principales ventajas se encuentran la posibilidad de consolidar información de múltiples fuentes, compartir reportes en tiempo real y presentar los resultados de manera visual y comprensible para diferentes públicos dentro de la organización. 
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/11.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Audiense 
+              p Esta herramienta continua orientada al análisis de audiencias y al conocimiento de comunidades digitales, especialmente en X (antes Twitter). Permite obtener información sobre los seguidores, identificar patrones de comportamiento, analizar intereses, segmentar audiencias y monitorear conversaciones o hashtags relevantes para una marca. 
+              p.mb-0 Algunas de sus funcionalidades dependen de la integración con la API de X y de las características disponibles en los diferentes planes de servicio, por lo que las métricas y opciones de análisis pueden variar con el tiempo. 
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/12.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 X Analytics (antes Twitter Analytics) 
+              p.mb-0 Es la herramienta de analítica de X (antes Twitter), que permite consultar métricas relacionadas con el rendimiento de las publicaciones, las interacciones, el crecimiento de la audiencia, las visitas al perfil y otros indicadores de actividad. Las funcionalidades y métricas disponibles pueden variar según el tipo de cuenta, las políticas de la plataforma y el plan de acceso contratado. 
+
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/13.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Twitonomy  
+              p.mb-0 Es una herramienta de análisis para cuentas de X (antes Twitter) que permite examinar información relacionada con publicaciones, interacciones, seguidores, menciones y hashtags. Su funcionamiento y disponibilidad dependen de las condiciones de acceso a la API de X, por lo que algunas funcionalidades pueden variar o estar sujetas a restricciones según el plan de servicio disponible. 
+
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/14.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Brand24
+              p.mb-0 Brand24 es una herramienta de monitoreo y escucha social que permite analizar menciones de marcas, productos o temas en diferentes plataformas digitales. Facilita el seguimiento de conversaciones, la identificación de tendencias y el análisis de la reputación digital, aportando información útil para la toma de decisiones y el diseño de estrategias de marketing y comunicación. 
+ 
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/15.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Iconosquare 
+              p.mb-0 Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios visor de feed, hashtags más usados, horas, impacto alcance y sugerencias. 
+
+          .row.justify-content-center.align-items-center.p-3.p-lg-4
+            .col-lg-3.mb-3.mb-lg-0
+              figure
+                img(src='@/assets/curso/tema3/16.png', alt='Imagen de acompañamiento')
+            .col-lg-9.mb-4.mb-md-0
+              h4 Meta Business Suite Insights 
+              p Es una herramienta del ecosistema Meta que permite analizar información sobre las audiencias y el rendimiento de contenidos en Facebook e Instagram. A través de ella es posible consultar datos demográficos, como edad, ubicación geográfica e intereses generales de los usuarios, así como métricas relacionadas con el alcance, la interacción y el comportamiento de las audiencias. Esta información contribuye a diseñar contenidos y estrategias de comunicación más acordes con las características del público objetivo. 
+
+              p.mb-0 La utilización de datos demográficos o comportamentales debe realizarse respetando los principios de finalidad, libertad, transparencia, seguridad y confidencialidad, de conformidad con la Ley 1581 de 2012 y el Decreto 1074 de 2015. Asimismo, las organizaciones deben atender las políticas y términos de uso establecidos por Meta y evitar el tratamiento de datos sensibles sin la autorización expresa del titular. 
+    
+    
 
     .bg-color-5.mb-5.p-4.tarjeta
       .row.align-items-center
