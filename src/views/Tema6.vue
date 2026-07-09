@@ -65,7 +65,7 @@
         
         .row.justify-content-center.align-items-center.z-2.mb-5
           .col-lg-10(data-aos="fade-up")
-            p.banner-text Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz, reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-VerificarActuar), la cual está constituida por cuatro fases. Ellas son:
+            p.banner-text Luego de percibir los beneficios del plan de mejora, es importante que usted, como aprendiz, reconozca los pasos de la metodología del plan de mejora, la cual está basada en el espiral de mejora continua a partir del ciclo PHVA (Planear-Hacer-Verificar-Actuar), la cual está constituida por cuatro fases. Ellas son:
 
     .row.mb-3.align-items-center.justify-content-center
       .col-lg-5.mb-3.mb-lg-0

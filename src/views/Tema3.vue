@@ -133,7 +133,7 @@
                 img(src='@/assets/curso/tema3/11.png', alt='Imagen de acompañamiento')
             .col-lg-9.mb-4.mb-md-0
               h4 Audiense 
-              p Esta herramienta continua orientada al análisis de audiencias y al conocimiento de comunidades digitales, especialmente en X (antes Twitter). Permite obtener información sobre los seguidores, identificar patrones de comportamiento, analizar intereses, segmentar audiencias y monitorear conversaciones o hashtags relevantes para una marca. 
+              p Esta herramienta continua orientada al análisis de audiencias y al conocimiento de comunidades digitales, especialmente en X (antes Twitter). Permite obtener información sobre los seguidores, identificar patrones de comportamiento, analizar intereses, segmentar audiencias y monitorear conversaciones o <em>hashtags</em> relevantes para una marca. 
               p.mb-0 Algunas de sus funcionalidades dependen de la integración con la API de X y de las características disponibles en los diferentes planes de servicio, por lo que las métricas y opciones de análisis pueden variar con el tiempo. 
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0
@@ -149,7 +149,7 @@
                 img(src='@/assets/curso/tema3/13.png', alt='Imagen de acompañamiento')
             .col-lg-9.mb-4.mb-md-0
               h4 Twitonomy  
-              p.mb-0 Es una herramienta de análisis para cuentas de X (antes Twitter) que permite examinar información relacionada con publicaciones, interacciones, seguidores, menciones y hashtags. Su funcionamiento y disponibilidad dependen de las condiciones de acceso a la API de X, por lo que algunas funcionalidades pueden variar o estar sujetas a restricciones según el plan de servicio disponible. 
+              p.mb-0 Es una herramienta de análisis para cuentas de X (antes Twitter) que permite examinar información relacionada con publicaciones, interacciones, seguidores, menciones y <em>hashtags</em>. Su funcionamiento y disponibilidad dependen de las condiciones de acceso a la API de X, por lo que algunas funcionalidades pueden variar o estar sujetas a restricciones según el plan de servicio disponible. 
 
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0
@@ -165,7 +165,7 @@
                 img(src='@/assets/curso/tema3/15.png', alt='Imagen de acompañamiento')
             .col-lg-9.mb-4.mb-md-0
               h4 Iconosquare 
-              p.mb-0 Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios visor de feed, hashtags más usados, horas, impacto alcance y sugerencias. 
+              p.mb-0 Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios visor de <em>feed</em>, <em>hashtags</em> más usados, horas, impacto alcance y sugerencias. 
 
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0
