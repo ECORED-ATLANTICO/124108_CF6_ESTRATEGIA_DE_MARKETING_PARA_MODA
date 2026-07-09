@@ -339,6 +339,11 @@ export default {
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Centro de Diseño Y Metrología - Regional Distrito Capital',
+        },
       ],
     },
     {
