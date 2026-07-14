@@ -165,7 +165,7 @@
                 img(src='@/assets/curso/tema3/15.png', alt='Imagen de acompañamiento')
             .col-lg-9.mb-4.mb-md-0
               h4 Iconosquare 
-              p.mb-0 Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios visor de <em>feed</em>, <em>hashtags</em> más usados, horas, impacto alcance y sugerencias. 
+              p.mb-0 Aplicación que gestiona la promoción y seguimiento de las cuentas en Instagram, ofrece métricas de imágenes con seguimiento a las interacciones, comentarios, visor de <em>feed</em>, <em>hashtags</em> más usados, horas, impacto alcance y sugerencias. 
 
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0
